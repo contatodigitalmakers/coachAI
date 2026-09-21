@@ -27,7 +27,7 @@ const products = [
     descKey: "products.football.desc",
     accentColor: "#00FF87",
     icon: "football",
-    url: "/football",
+    url: "https://coachai.cfd",
   },
   {
     sport: "Tennis",
@@ -35,7 +35,7 @@ const products = [
     descKey: "products.tennis.desc",
     accentColor: "#4D9FFF",
     icon: "tennis",
-    url: "/tennis",
+    url: "https://tennis.coachai.cfd",
   },
   {
     sport: "Combat",
@@ -43,7 +43,7 @@ const products = [
     descKey: "products.luta.desc",
     accentColor: "#FF5C4D",
     icon: "luta",
-    url: "/luta",
+    url: "https://fightcoachai.cfd",
   },
   {
     sport: "Volleyball",
@@ -51,7 +51,7 @@ const products = [
     descKey: "products.volleyball.desc",
     accentColor: "#9E7BFF",
     icon: "volleyball",
-    url: "/volleyball",
+    url: "https://volley.coachai.cfd",
   },
   {
     sport: "Basketball",
@@ -59,7 +59,7 @@ const products = [
     descKey: "products.basketball.desc",
     accentColor: "#FF8A2B",
     icon: "basketball",
-    url: "/basketball",
+    url: "https://basket.coachai.cfd",
   },
 ];
 
